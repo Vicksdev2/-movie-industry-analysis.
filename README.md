@@ -24,7 +24,7 @@ This suggests that financial investment in production and marketing is the most 
 
 
 ## 📷 
-![Budget vs. Income Chart](budget_vs_gross_analysis.png)
+(budget_vs_gross_analysis.png)
 (Correlation_matrix.png)
 
 
@@ -32,7 +32,7 @@ This suggests that financial investment in production and marketing is the most 
 ## 🚀 How to run this project
 1.  Clone the repository:
 ```bash
-git clone https://github.com/TU_USUARIO/movie-correlation-project.git
+git clone https://github.com/Vicksdev2/movie-correlation-project.git
 ```
 2.  Install the dependencies:
 ```bash
