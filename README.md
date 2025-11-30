@@ -24,9 +24,9 @@ This suggests that financial investment in production and marketing is the most 
 
 
 ## 📷 
-(budget_vs_gross_analysis.png)
-(Correlation_matrix.png)
+![Budget vs Gross](budget_vs_gross_analysis.png)
 
+![Correlation matrix](Correlation_matrix.png)
 
 
 ## 🚀 How to run this project
